@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="db_fondo">#0D1B3E</color>
+    <color name="db_card">#162B5C</color>
+    <color name="db_naranja">#FF9800</color>
+    <color name="db_amarillo">#FFD54F</color>
+</resources>

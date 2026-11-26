@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DragonBallApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/db_fondo</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="31">500</item>
+    </style>
+</resources>
